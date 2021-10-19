@@ -14,3 +14,7 @@ onMouse
 \
 오츠의 알고리즘 이미지
 - 출처 : https://minimin2.tistory.com/129
+
+\
+adaptive_thresh
+- 출처 : https://m.blog.naver.com/samsjang/220504782549
