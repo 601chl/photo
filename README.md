@@ -10,3 +10,7 @@ onMouse
 \
 이진화 방법
 - 출처 : https://marisara.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-openCV-1-%EC%9D%B4%EC%A7%84%ED%99%94binarization-thresholding
+
+\
+오츠의 알고리즘 이미지
+- 출처 : https://minimin2.tistory.com/129
